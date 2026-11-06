@@ -1,0 +1,4 @@
+faster-whisper==1.2.1
+av==16.1.0
+imageio-ffmpeg==0.8.1
+opencc==1.4.2

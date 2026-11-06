@@ -1,0 +1,8 @@
+.venv/
+model/
+校對/
+__pycache__/
+*.py[cod]
+.subtitle-*/
+*.zh-TW.srt
+*.zh-TW*.mp4
