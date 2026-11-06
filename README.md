@@ -1,5 +1,7 @@
 # AI-Subtitle
 
+> an AI Agent tool can help for generate subtitle
+
 在 Windows 上將中文語音轉成台灣繁體 SRT。輸入影片時，同時輸出字幕固定顯示在畫面上的 MP4。也能用校對後的 SRT 重新輸出影片，省去語音辨識。
 
 ## 安裝
